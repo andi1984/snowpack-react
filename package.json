@@ -8,13 +8,16 @@
   },
   "webDependencies": {},
   "devDependencies": {
-    "@snowpack/app-scripts-react": "^1.0.0",
-    "@testing-library/jest-dom": "^5.5.0",
-    "@testing-library/react": "^10.0.3",
-    "jest": "^25.4.0",
-    "prettier": "^2.0.0",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0",
-    "snowpack": "^2.0.0"
+    "@snowpack/app-scripts-react": "^2.0.1",
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/react": "^12.1.3",
+    "jest": "^27.5.1",
+    "prettier": "^2.5.1",
+    "react": "^18.0.0-rc.2",
+    "react-dom": "^18.0.0-rc.2",
+    "snowpack": "^3.8.8"
+  },
+  "dependencies": {
+    "@snowpack/plugin-react-refresh": "^2.5.0"
   }
 }
